@@ -1,0 +1,9 @@
+.pui-btn {
+  padding: 5px;
+  border: 1px solid red;
+  border-radius: 2px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  user-select: none;
+}
